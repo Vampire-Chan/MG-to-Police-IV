@@ -7,6 +7,7 @@ Assigns MG to Police and Noose.
 
 ## How to install?
 - Download IVSDK-Net and paste the script inside IVSDKDotNet/scripts/
+
 [IV-SDK.NET](https://gtaforums.com/topic/986510-iv-sdk-net/)
 - Install MG in Episodic_14 slot to make it work.
 - Or Install this mod: [TIP-IV](https://www.nexusmods.com/gta4/mods/240)
@@ -15,5 +16,7 @@ Assigns MG to Police and Noose.
 - At the moment I don't know. But you can report me.
 
 If you like my work, you can always support me through these links:
+
 [Patreon](https://www.patreon.com/darkhouseofvampire)
+
 [Ko-Fi](https://ko-fi.com/vampirelazy)
