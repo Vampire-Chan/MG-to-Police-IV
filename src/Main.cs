@@ -53,7 +53,7 @@ namespace IV_MG
                 pred = (int)eVehicle.VEHICLE_PREDATOR;
 
             #region PoliceCops
-
+            //PedPools
             int[] peds = CPools.GetAllPedHandles();
             for (int i = 0; i < peds.Length; i++)
             {
@@ -77,7 +77,7 @@ namespace IV_MG
                     }
                 }
             }
-
+            //PedPools
             int[] peds2 = CPools.GetAllPedHandles();
             for (int i = 0; i < peds2.Length; i++)
             {
@@ -102,7 +102,7 @@ namespace IV_MG
                     }
                 }
             }
-
+            //PedPools
             int[] peds3 = CPools.GetAllPedHandles();
             for (int i = 0; i < peds3.Length; i++)
             {
@@ -127,7 +127,8 @@ namespace IV_MG
                     }
                 }
             }
-
+         
+            //PedPools 
             int[] peds4 = CPools.GetAllPedHandles();
             for (int i = 0; i < peds4.Length; i++)
             {
@@ -158,7 +159,8 @@ namespace IV_MG
 
            
         }
-
+        
+        //todo
         private void Main_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.NumPad7)
